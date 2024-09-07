@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../models/Student.dart'; // Import Student model
+import '../models/Student.dart'; 
 
 class StudentListScreen extends StatelessWidget {
   final List<Student> students;

@@ -1,3 +1,9 @@
+// Pratik Kodape
+// 226418
+// Mobile Application Assignment
+// IMCA SEM V
+// Que 1.
+
 import 'dart:io';
 
 bool isPalindrome(int number) {
